@@ -8,6 +8,7 @@
  ❤[Fork](https://github.com/wangxiaoleiAI/machine-learning.git) ★[Star](https://github.com/wangxiaoleiAI/machine-learning.git)
 
 - [摘要](#摘要)
+- [第一章人工智能之机器学习算法体系汇总.md](./article/第一章人工智能之机器学习算法体系汇总.md)
 - [作者](#作者)
 
 摘要
