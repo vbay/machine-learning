@@ -1,7 +1,7 @@
 人工智能之机器学习 machine-learning
 ==============================
 
-:zap:最新文章 [第一章人工智能之机器学习算法体系汇总.md](./article/第一章人工智能之机器学习算法体系汇总.md)
+:zap:最新文章 [第一章人工智能之机器学习算法体系汇总.md](./article/第1章人工智能之机器学习算法体系汇总.md)
 
 :cn:[中文](#中文)  :us:[English](#english)
 
@@ -13,13 +13,13 @@
 
 
 
-中文
+:cn:[中文
 -------
 ***:star:[Star](https://github.com/wangxiaoleiAI/machine-learning.git)***
 ***:fire:[Fork](https://github.com/wangxiaoleiAI/machine-learning.git)*** :rocket:[Follow](https://github.com/wangxiaoleiAI)
  :boom:[评论 issues](https://github.com/wangxiaoleiAI/machine-learning/issues/2)
 - [摘要](#摘要)
-- [第一章人工智能之机器学习算法体系汇总.md](./article/第一章人工智能之机器学习算法体系汇总.md)
+- [第一章人工智能之机器学习算法体系汇总.md](./article/第1章人工智能之机器学习算法体系汇总.md)
 - [作者](#作者)
 
 摘要
@@ -37,7 +37,7 @@
 ----
 
 
-English
+:us:English
 ---------
 
 ***:star:[Star](https://github.com/wangxiaoleiAI/machine-learning.git)***
