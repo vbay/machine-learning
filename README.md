@@ -13,7 +13,7 @@
 
 
 
-:cn:[中文
+:cn:中文
 -------
 ***:star:[Star](https://github.com/wangxiaoleiAI/machine-learning.git)***
 ***:fire:[Fork](https://github.com/wangxiaoleiAI/machine-learning.git)*** :rocket:[Follow](https://github.com/wangxiaoleiAI)
